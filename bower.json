@@ -21,5 +21,8 @@
     "test",
     "tests",
     "example"
-  ]
+  ],
+  "dependencies": {
+    "createjs-combined": "^2015.11.26"
+  }
 }

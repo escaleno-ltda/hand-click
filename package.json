@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/escaleno-ltda/hand-click/issues"
   },
-  "homepage": "https://github.com/escaleno-ltda/hand-click#readme"
+  "homepage": "https://github.com/escaleno-ltda/hand-click#readme",
+  "dependencies": {
+    "createjs-combined": "^2015.11.26"
+  }
 }
