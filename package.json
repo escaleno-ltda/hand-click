@@ -1,0 +1,23 @@
+{
+  "name": "hand-click",
+  "version": "0.0.1",
+  "description": "Animation hand click",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/escaleno-ltda/hand-click.git"
+  },
+  "keywords": [
+    "animation",
+    "cretajs"
+  ],
+  "author": "Juan Silva <juan@escaleno.cl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/escaleno-ltda/hand-click/issues"
+  },
+  "homepage": "https://github.com/escaleno-ltda/hand-click#readme",
+}

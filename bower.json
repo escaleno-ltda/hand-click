@@ -1,0 +1,25 @@
+{
+  "name": "hand-click",
+  "description": "Animation hand click",
+  "main": [
+    "libs/createjs-2015.11.26.min.js",
+    "index.js"
+  ],
+  "authors": [
+    "Juan Silva <juan@escaleno.cl>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "animation",
+    "cretajs"
+  ],
+  "homepage": "https://github.com/escaleno-ltda/hand-click",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "example"
+  ]
+}
