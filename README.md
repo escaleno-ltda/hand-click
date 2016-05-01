@@ -15,3 +15,7 @@ With npm
 ```sh
 npm i -S hand-click
 ```
+
+## Use
+
+Show example/index.html
